@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Iftekhar Kamar  
 
-<!--
-**iftekharKamar/iftekharKamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Electrical Engineer | Data Analyst | Web Developer | AI/ML Enthusiast  
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 Electrical Engineer passionate about **Data Analytics & AI/ML**  
+- 💡 Skilled in Python, SQL, React, Tailwind, and Machine Learning  
+- 📊 Built projects on **sales forecasting, supply chain, EDA, and hybrid ML models**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Python, JavaScript, SQL  
+- Frameworks: React, Django, Flask  
+- ML/AI: Scikit-learn, TensorFlow, XGBoost, Prophet, LSTM  
+- Tools: Git, VS Code, Jupyter  
+
+
+
